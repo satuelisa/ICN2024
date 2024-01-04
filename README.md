@@ -1,5 +1,6 @@
 # ICN2024
-ICN International Week 2024 course: Network Science using Python
+## Network Science using Python
+### ICN International Week 2024 course
 
 Content to be populated during Jan/Feb 2024. Course delivered in March at the ICN.
 
@@ -17,13 +18,13 @@ Network science is the art of using mathematical and computational concepts and 
 
 This is an introductory course tailored for those who are new to network science that can also accommodate newcomers to Python. Some programming experience is recommended, but none is required. No mathematical previous knowledge is required, although those skilled in mathematics can challenge themselves with more complex tasks when applying the concepts in their personal worksheets for each session.
 
-* Session 1: Graph theory and network science
-* Session 2: Generation models and graph layout algorithms
-* Session 3: Structural characterization of vertices, edges, and graphs
-* Session 4: Robustness and resilience of networked systems
-* Session 5: Community detection in networks
-* Session 6: Computational complexity of network problems: coloring, flow
-* Session 7: Applied network science: examples from epidemiology and AI
+* [Session 1: Graph theory and network science](https://github.com/satuelisa/ICN2024/blob/main/S1_graphs.ipynb)
+* [Session 2: Generation models and graph layout algorithms](https://github.com/satuelisa/ICN2024/blob/main/S2_generation.ipynb)
+* [Session 3: Structural characterization of vertices, edges, and graphs](https://github.com/satuelisa/ICN2024/blob/main/S3_structure.ipynb)
+* [Session 4: Robustness and resilience of networked systems](https://github.com/satuelisa/ICN2024/blob/main/S4_resist.ipynb)
+* [Session 5: Community detection in networks](https://github.com/satuelisa/ICN2024/blob/main/S5_cluster.ipynb)
+* [Session 6: Computational complexity of network problems: coloring, flow](https://github.com/satuelisa/ICN2024/blob/main/S6_problems.ipynb)
+* [Session 7: Applied network science: examples from epidemiology and AI](https://github.com/satuelisa/ICN2024/blob/main/S7_applied.ipynb)
 
 ## Teaching Method
 
