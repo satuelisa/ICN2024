@@ -28,7 +28,7 @@ This is an introductory course tailored for those who are new to network science
 
 ## Teaching Method
 
-* Collaborative construction of an online visual dictionary with code examples.  
+* Collaborative construction of an [trilingual illustrated glossary with code examples](https://www.overleaf.com/read/htcnfptdxzcd#59c09b)
 * Interactive exploration of key concepts through per-session Colab notebooks.
 * All course materials are electronic and publicly available online. 
 
