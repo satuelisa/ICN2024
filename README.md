@@ -2,7 +2,7 @@
 ## Network Science using Python
 ### ICN International Week 2024 course
 
-Content to be populated during Jan/Feb 2024. Course delivered in March at the ICN.
+Course delivered in March at the ICN.
 
 # Network Science using Python
 
